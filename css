@@ -1,4 +1,6 @@
-
+body {
+    background-color: maroon;
+}
 
 #NavHeader {
     background-color: yellow;
