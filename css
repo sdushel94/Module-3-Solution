@@ -12,3 +12,8 @@ body {
 #title{
     padding: 0; 
 }
+
+h2{
+    padding: 10px;
+    color: black;
+}
