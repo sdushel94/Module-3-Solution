@@ -22,3 +22,8 @@ section {
     margin-bottom: 20px;
     padding: 20px;
 }
+
+.navbar-toggle{
+    position: relative;
+    float: right;
+}
