@@ -1,7 +1,9 @@
 body {
-    background-color: red;
+    background-color: marroon;
 }
 
 #header-nav {
     background-colr: yellow;
+    border-radius: 0;
+    border: 0;
 }
