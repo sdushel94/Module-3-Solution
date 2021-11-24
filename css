@@ -2,13 +2,14 @@ body {
     background-color: maroon;
 }
 
+h2{
+    color: black;
+    padding: 20px;
+}
+
 #NavHeader {
     background-color: yellow;
     border-radius: 0;
     border: 0;
     height: 100px
-}
-
-h2{
-    color: black;
 }
