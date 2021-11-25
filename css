@@ -22,3 +22,8 @@ section {
     margin-bottom: 20px;
     padding: 20px;
 }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px
+    color: maroon; 
+}
